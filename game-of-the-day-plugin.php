@@ -2,7 +2,7 @@
 /*
 Plugin Name: Game of the Day
 Plugin URI:
-Description: Each day Games.com Editors features 'Game of the day'.Invite Friends/Share/Play Online for free from Games.com
+Description: Each day Games.com Editors features 'Game of the day'.Invite Friends/Share/Play Online for free from Games.com.Click on the Game image or link, lightbox popup will appear and you can play the game. You can login with AOL,Yahoo,Gmail,Facebook creditenials to save your scores,earn stamps and stars and be a part of Games.com Community.
 Version: 1.0
 Author: Games Team
 Author URI: http://www.games.com/
